@@ -1,0 +1,84 @@
+div.grid{
+    background: #ffd1c2;
+    border: 2px solid #f16234;
+    height: 50px;
+
+}
+.foto-perfil{
+    width: 70%;
+
+    border-radius: 50%;
+    border: 3px solid black;
+
+}
+.footer{
+    padding: 10px 0;
+    text-align: center;
+
+}
+.contato-2{
+    padding: 10px 0;
+    text-align: center;
+
+}
+.icone {
+    font-size: 32px;
+}
+.sobre-mim{
+    padding: 10px 0;
+    text-align: center;
+}
+.foto-body-1 img{
+    width: 60%;
+}
+.form-area {
+	padding-top: 7%;
+}
+.row.single-form {
+	box-shadow: 0 2px 20px -5px rgba(0,0,0,0.5);
+}
+.esquerda {
+	background: #212529;
+	padding: 200px 98px;
+}
+.esquerda h2 {
+	font-family: poppins;
+	color: #fff;
+	font-weight: 700;
+	font-size: 48px;
+}
+.esquerda h2 span {
+	font-weight: 100;
+}
+.single-form{
+    background: #fff;
+}
+.direita {
+	padding: 70px 100px;
+	position: relative;
+}
+.direita i {
+	position: absolute;
+	font-size: 80px;
+	left: -27px;
+	top: 40%;
+	color: #fff;
+}
+.form-control {
+	border: 2px solid #000;
+}
+.right button {
+	border: none;
+	border-radius: 0;
+	background: #212529 ;
+	width: 180px;
+	color: #fff;
+	padding: 15px 0;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+.right button:hover{
+    background-color: #252525;
+}
